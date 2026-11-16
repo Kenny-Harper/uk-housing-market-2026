@@ -1,0 +1,49 @@
+region,property_type,type_order,price_change_12m_pct
+East Midlands,Detached,1,0.0
+East Midlands,Semi-detached,2,1.2
+East Midlands,Terraced,3,0.9
+East Midlands,Flat,4,-2.2
+East of England,Detached,1,-0.2
+East of England,Semi-detached,2,1.1
+East of England,Terraced,3,0.7
+East of England,Flat,4,-1.3
+London,Detached,1,1.8
+London,Semi-detached,2,1.8
+London,Terraced,3,0.1
+London,Flat,4,-5.0
+North East,Detached,1,1.6
+North East,Semi-detached,2,3.8
+North East,Terraced,3,4.4
+North East,Flat,4,0.7
+North West,Detached,1,1.8
+North West,Semi-detached,2,3.1
+North West,Terraced,3,2.9
+North West,Flat,4,-1.1
+Northern Ireland,Detached,1,8.4
+Northern Ireland,Semi-detached,2,10.3
+Northern Ireland,Terraced,3,9.8
+Northern Ireland,Flat,4,5.7
+Scotland,Detached,1,2.5
+Scotland,Semi-detached,2,3.8
+Scotland,Terraced,3,4.2
+Scotland,Flat,4,2.0
+South East,Detached,1,-0.7
+South East,Semi-detached,2,0.2
+South East,Terraced,3,-0.3
+South East,Flat,4,-2.7
+South West,Detached,1,-0.4
+South West,Semi-detached,2,0.9
+South West,Terraced,3,0.6
+South West,Flat,4,-1.8
+Wales,Detached,1,2.4
+Wales,Semi-detached,2,3.7
+Wales,Terraced,3,3.7
+Wales,Flat,4,0.9
+West Midlands,Detached,1,0.6
+West Midlands,Semi-detached,2,1.9
+West Midlands,Terraced,3,2.0
+West Midlands,Flat,4,-1.6
+Yorkshire & Humber,Detached,1,1.1
+Yorkshire & Humber,Semi-detached,2,2.2
+Yorkshire & Humber,Terraced,3,2.8
+Yorkshire & Humber,Flat,4,-1.0
