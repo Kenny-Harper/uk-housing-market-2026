@@ -2,7 +2,7 @@
 
 A SQL analysis of the official UK House Price Index (to August 2026), written as a brief for an estate agency deciding where to focus: which regions, local areas and property types are growing, and where the money is.
 
-**Live dashboard:** [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/kenny.harper/viz/Olist-LateDeliveries/Dashboard1)
+**Live dashboard:** [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/kenny.harper/viz/UKHousingMarket2026/Dashboard1)
 
 **Tools:** SQL (SQLite), Python (pandas), Tableau Public
 
