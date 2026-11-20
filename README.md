@@ -1,5 +1,7 @@
 # UK Housing Market 2026: Where Should an Estate Agency Focus?
 
+<img width="900" height="417" alt="Screenshot 2026-11-20 at 16 49 35" src="https://github.com/user-attachments/assets/2233e6d7-d265-4840-9f91-c16fcd726229" />
+
 A SQL analysis of the official UK House Price Index (to August 2026), written as a brief for an estate agency deciding where to focus: which regions, local areas and property types are growing, and where the money is.
 
 **Live dashboard:** [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/kenny.harper/viz/UKHousingMarket2026/Dashboard1)
